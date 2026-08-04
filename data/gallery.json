@@ -1,12 +1,6 @@
 {
   "photos": [
     {
-      "image": "images/gallery-champagne-glam.jpg",
-      "title": "Champagne Glam",
-      "category": "Soft Glam",
-      "alt": "Soft glam makeup with warm champagne-gold shimmer eyeshadow and a glossy nude lip"
-    },
-    {
       "image": "images/gallery-smoky-siren.jpg",
       "title": "Smoky Siren",
       "category": "Evening Glam",
@@ -25,12 +19,6 @@
       "alt": "Soft glam makeup with gold shimmer eyeshadow and a glossy coral lip"
     },
     {
-      "image": "images/gallery-dewy-glow.jpg",
-      "title": "Dewy Glow",
-      "category": "Natural Glam",
-      "alt": "Fresh dewy glam with luminous skin, soft gold shimmer and a glossy lip"
-    },
-    {
       "image": "images/gallery-gilded-glam.jpg",
       "title": "Gilded Glam",
       "category": "Full Glam",
@@ -41,12 +29,6 @@
       "title": "Bronzed Glow",
       "category": "Natural Glam",
       "alt": "Bronzed natural glam makeup with warm tones and radiant, glowing skin"
-    },
-    {
-      "image": "images/gallery-soft-romantic.jpg",
-      "title": "Soft Romantic",
-      "category": "Bridal Party",
-      "alt": "Soft romantic glam with a natural glowing base, braided curls and a glossy lip"
     },
     {
       "image": "images/gallery-smoky-glam.jpg",
