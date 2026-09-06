@@ -912,6 +912,15 @@ body.nav-open .nav-toggle span:nth-child(2) { transform: translateY(-4px) rotate
   gap: 20px;
 }
 
+/* ---------- Featured Looks (top of page) ---------- */
+.featured { padding-bottom: 12px; }
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+.featured-cta { margin-top: 26px; }
+
 .tile {
   position: relative;
   border-radius: 12px;
